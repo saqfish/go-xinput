@@ -1,3 +1,3 @@
-module github.com/oxzi/go-xinput
+module github.com/saqfish/go-xinput
 
 go 1.15
